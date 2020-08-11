@@ -1,0 +1,83 @@
+*****************************************************
+Complex numbers calculator ready, enter your command:
+read_comp A, 22.1, 68.7
+read succeeded: 22.100 + (68.700)i
+*****************************************************
+Complex numbers calculator ready, enter your command:
+print_comp A
+22.100 + (68.700)i
+*****************************************************
+Complex numbers calculator ready, enter your command:
+read_comp B,22.4,-12.8
+read succeeded: 22.400 - (12.800)i
+*****************************************************
+Complex numbers calculator ready, enter your command:
+print_comp B
+22.400 - (12.800)i
+*****************************************************
+Complex numbers calculator ready, enter your command:
+add_comp A,B
+the sum is : 44.500 + (55.900)i
+*****************************************************
+Complex numbers calculator ready, enter your command:
+read_comp C,1,1
+read succeeded: 1.000 + (1.000)i
+*****************************************************
+Complex numbers calculator ready, enter your command:
+sub_comp C , A
+the dif is : -21.100 - (67.700)i
+*****************************************************
+Complex numbers calculator ready, enter your command:
+mult_comp_real A, 2.5
+the mul of real is : 55.250 + (171.750)i
+*****************************************************
+Complex numbers calculator ready, enter your command:
+mult_comp_real A, B
+invalid paramete - not a number
+*****************************************************
+Complex numbers calculator ready, enter your command:
+mult_comp_img A,2.5
+the mul of imag is : -171.750 + (55.250)i
+*****************************************************
+Complex numbers calculator ready, enter your command:
+mult_comp_img A, 	C
+invalid paramete - not a number
+*****************************************************
+Complex numbers calculator ready, enter your command:
+mult_comp_comp B, A
+the mul of real is : 1374.400 + (1256.000)i
+*****************************************************
+Complex numbers calculator ready, enter your command:
+abs_comp A
+the absolute value is: 72.167167
+*****************************************************
+Complex numbers calculator ready, enter your command:
+read_comp Z, 5.2, 8
+Undefined‬‬ ‫‪complex varibale
+*****************************************************
+Complex numbers calculator ready, enter your command:
+hhhhhhhhh A,B
+‫‪Undefined‬‬ ‫‪command‬‬ ‫‪name‬‬
+*****************************************************
+Complex numbers calculator ready, enter your command:
+read_comp A, B, 567
+invalid paramete - not a number
+*****************************************************
+Complex numbers calculator ready, enter your command:
+read_comp A, 567, C
+invalid paramete - not a number
+*****************************************************
+Complex numbers calculator ready, enter your command:
+add_comp A B
+Missing comma
+*****************************************************
+Complex numbers calculator ready, enter your command:
+add_comp A, , B
+Multiple consecutive commas
+*****************************************************
+Complex numbers calculator ready, enter your command:
+abs_comp A,B
+Extraneous text after end of command
+*****************************************************
+Complex numbers calculator ready, enter your command:
+stop
